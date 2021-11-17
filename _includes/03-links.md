@@ -1,1 +1,1 @@
-[Github profile link] https://github.com/csesourav97
+[Github link] https://github.com/csesourav97
