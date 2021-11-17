@@ -2,13 +2,14 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+{Default Image}
 
 <br>
 
-{% include 02-image.md %}
+{% include ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+.md %}
 
 <br>
 
-{% include 03-links.md %}
+{https://github.com/csesourav97}
 
