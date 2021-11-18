@@ -1,1 +1,2 @@
-[Github link] https://github.com/csesourav97
+[GitHub](http://github.com)
+
